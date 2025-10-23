@@ -277,7 +277,6 @@ plt.title('Preço médio por Gênero', fontweight='bold', fontsize=13)
 plt.xlabel('Gênero', fontsize=10);
 plt.ylabel('Preço médio (R$)', fontsize=10)
 plt.xticks(rotation=50, ha='right', fontsize=9)
-
 plt.tight_layout()
 plt.show()
 
